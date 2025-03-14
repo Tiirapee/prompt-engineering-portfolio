@@ -13,6 +13,6 @@
 📌 [โปรเจกต์ AI Automation ด้วย LangChain](./projects/langchain-ai-automation.md)  
 
 ## 🔹 ติดต่อ  
-📧 Email: your@email.com  
-🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourname)  
+📧 Email: tiirayutt@hotmail.com  
+🔗 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/teerakan/)
 🌐 Website: [GitHub Pages](https://yourgithubusername.github.io/prompt-engineering-portfolio/)  
