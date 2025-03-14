@@ -14,5 +14,5 @@
 
 ## 🔹 ติดต่อ  
 📧 Email: tiirayutt@hotmail.com  
-🔗 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/teerakan/)
-🌐 Website: [GitHub Pages](https://yourgithubusername.github.io/prompt-engineering-portfolio/)  
+🔗 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/teerakan/)]
+🌐 Website: [(https://tiirapee.github.io/prompt-engineering-portfolio/)] 
