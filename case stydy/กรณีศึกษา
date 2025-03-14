@@ -1,1 +1,18 @@
+# 🎯 Case Study: ปรับแต่ง AI Chatbot ให้แม่นยำขึ้น 30%
+
+## 🔹 ปัญหาที่พบ  
+- AI Chatbot ตอบคำถามผิดบ่อย  
+- ความแม่นยำของผลลัพธ์ต่ำ  
+- การสนทนาขาดความต่อเนื่อง  
+
+## 🔹 วิธีแก้ไขโดยใช้ Prompt Engineering  
+✅ ใช้ **Few-Shot Prompting** เพื่อเพิ่มบริบท  
+✅ ใช้ **Chain-of-Thought (CoT) Prompting** ให้ AI อธิบายเหตุผลก่อนตอบ  
+✅ ปรับแต่ง **Temperature & Top-P Sampling** เพื่อให้ผลลัพธ์คงที่  
+
+## 🔹 ผลลัพธ์  
+📈 ความแม่นยำเพิ่มขึ้น **30%**  
+📉 ลดอัตราการตอบผิดจาก **20% เหลือ 5%**  
+
+🔗 ดูโค้ดที่ใช้: [Code Repository](../projects/chatbot-improvement/)
 
